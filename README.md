@@ -94,21 +94,6 @@ node -v
 npm -v
 ```
 
-### Install
-
-Follow the following steps to get development environment running.
-
-* Clone _'MERN-BUS-APP.git'_ repository from GitHub
-
-  ```bash
-  git clone https://github.com/AdityaKumawat97/MERN-BUS-APP.git
-  ```
-
-   _OR USING SSH_
-
-  ```bash
-  git clone git@github.com:AdityaKumawat97/MERN-BUS-APP.git
-  ```
 
 * Install node modules
 
